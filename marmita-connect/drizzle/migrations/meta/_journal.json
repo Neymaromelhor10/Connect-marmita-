@@ -1,0 +1,174 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1788062952754,
+      "tag": "0000_create_marmitaria_saas_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1788672885565,
+      "tag": "0001_audit_hardening_tenant_isolation_and_finance",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1788748924307,
+      "tag": "0002_fix_assert_same_company_trigger",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1788835132373,
+      "tag": "0003_revoke_trigger_function_execute",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1788892294094,
+      "tag": "0004_marmita_sizes_and_message_parsing",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1790993267881,
+      "tag": "0005_whatsapp_cloud_connections",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1791164142555,
+      "tag": "0006_orders_settled_by_payment",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1791249386378,
+      "tag": "0007_whatsapp_connections_backend_only_writes",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1792902129723,
+      "tag": "0008_order_date_brazil_default",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1793680000000,
+      "tag": "0009_marmita_size_m_and_financial_guards",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1793710000000,
+      "tag": "0010_activate_financial_confirmation_ok_okk",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1793800000000,
+      "tag": "0011_pre_production_hardening",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1793900000000,
+      "tag": "0012_argon4_concurrency_scalability_and_rls_hardening",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1794000000000,
+      "tag": "0013_argon4_queue_dashboard_and_rls_hardening",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "7",
+      "when": 1794100000000,
+      "tag": "0014_argon4_round4_queue_advisory_and_review_hardening",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "7",
+      "when": 1794200000000,
+      "tag": "0015_argon4_round5_audit5_hardening",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "7",
+      "when": 1794300000000,
+      "tag": "0016_argon4_round6_critical_security_and_queue_fixes",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "7",
+      "when": 1794400000000,
+      "tag": "0017_argon4_round9_trigger_role_and_audit_hardening",
+      "breakpoints": true
+    },
+    {
+      "idx": 18,
+      "version": "7",
+      "when": 1794500000000,
+      "tag": "0018_argon4_forensic_audit_hardening",
+      "breakpoints": true
+    },
+    {
+      "idx": 19,
+      "version": "7",
+      "when": 1794600000000,
+      "tag": "0019_argon4_c09_queue_fencing_and_claim_hardening",
+      "breakpoints": true
+    },
+    {
+      "idx": 20,
+      "version": "7",
+      "when": 1794700000000,
+      "tag": "0020_argon4_c09_lease_and_echo_hardening",
+      "breakpoints": true
+    },
+    {
+      "idx": 21,
+      "version": "7",
+      "when": 1794800000000,
+      "tag": "0021_argon4_missao07_af01_af10_hardening",
+      "breakpoints": true
+    },
+    {
+      "idx": 22,
+      "version": "7",
+      "when": 1794900000000,
+      "tag": "0022_argon4_missao07_2_surgical_remediation",
+      "breakpoints": true
+    },
+    {
+      "idx": 23,
+      "version": "7",
+      "when": 1795000000000,
+      "tag": "0023_argon4_missao07_4_security_and_regression_fixes",
+      "breakpoints": true
+    }
+  ]
+}
