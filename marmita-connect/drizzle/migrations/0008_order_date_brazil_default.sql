@@ -1,1 +1,0 @@
-ALTER TABLE public.orders ALTER COLUMN order_date SET DEFAULT ((now() AT TIME ZONE 'America/Sao_Paulo')::date);
